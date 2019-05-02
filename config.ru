@@ -294,7 +294,7 @@ $ git push</pre>
                     <li><a href="https://github.com/openshift/origin">Openshift Origin GitHub</a></li>
                     <li><a href="https://github.com/openshift/source-to-image">Source To Image GitHub</a></li>
                     <li><a href="http://docs.okd.io/latest/using_images/s2i_images/ruby.html">Getting Started with Ruby on OpenShift</a></li>
-                    <li><a href="http://stackoverflow.com/questions/tagged/openshift">time5 update OpenShift</a></li>
+                    <li><a href="http://stackoverflow.com/questions/tagged/openshift">time6 update OpenShift</a></li>
                     <li><a href="http://git-scm.com/documentation">Git documentation</a></li>
                   </ul>
 
