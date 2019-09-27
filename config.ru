@@ -290,12 +290,12 @@ $ git push</pre>
 
                 <h2>Development Resources</h2>
                   <ul>
-                    <li><a href="http://docs.okd.io/latest/welcome/index.html">OpenShift Documentation</a></li>
-                    <li><a href="https://github.com/openshift/origin">Openshift Origin GitHub</a></li>
-                    <li><a href="https://github.com/openshift/source-to-image">Source To Image GitHub</a></li>
-                    <li><a href="http://docs.okd.io/latest/using_images/s2i_images/ruby.html">Getting Started with Ruby on OpenShift</a></li>
-                    <li><a href="http://stackoverflow.com/questions/tagged/openshift">time6 update OpenShift</a></li>
-                    <li><a href="http://git-scm.com/documentation">Git documentation</a></li>
+                    <li><a href="http://docs.okd.io/latest/welcome/index.html">OpenShift Documentation-V1</a></li>
+                    <li><a href="https://github.com/openshift/origin">Openshift Origin GitHub-V1</a></li>
+                    <li><a href="https://github.com/openshift/source-to-image">Source To Image GitHub-V1</a></li>
+                    <li><a href="http://docs.okd.io/latest/using_images/s2i_images/ruby.html">Getting Started with Ruby on OpenShift-V1</a></li>
+                    <li><a href="http://stackoverflow.com/questions/tagged/openshift">time6 update OpenShift-V1</a></li>
+                    <li><a href="http://git-scm.com/documentation">Git documentation-V1</a></li>
                   </ul>
 
 
